@@ -1,4 +1,4 @@
-# Undergraduate Research Project (2018-19) under Dr. Vipul Arora
+# Undergraduate Research Project under Dr. Vipul Arora
 Sound source separation using Probabilistic Latent Component Analysis and Deep Learning.
 
 UGP.ipynb contains the code for Source-Filter based Probabilistic Latent Component Analysis.
