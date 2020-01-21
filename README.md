@@ -9,4 +9,6 @@ ML.ipynb contains the code for Deep Probabilistic Framework-II.
 
 UGP.py, DL.py and ML.py are the python scripts for running UGP.ipynb, DL.ipynb and ML.ipynb on GPU.
 
-5.py contains the code for the fundamental frequency estimation on GPU. 
+FE.py contains the code for the fundamental frequency estimation on GPU. 
+
+The codes are written in Python-3 using TensorFlow 2.0 Framework.
